@@ -13,6 +13,7 @@ conda install pandas
 conda install intake-parquet
 conda install matplotlib seaborn
 conda install scikit-learn
+conda install intake-excel
 pip install tensorflow
 pip install aiohttp
 ```
